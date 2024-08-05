@@ -1,1 +1,1 @@
-python3 -m launch --xformers --skip-load-model-at-start
+python3 -m launch --xformers --skip-load-model-at-start --api
